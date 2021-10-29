@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background: grey;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap-reverse;
+}
+
+.child{
+    background: white;
+    margin: 5px;\
+
+}
