@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background: grey;
+    display: flex;
+    flew-direction: rtl;
+
+}
+.chiled{
+    background: white;
+    margin: 5px;
+}
