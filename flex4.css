@@ -5,7 +5,7 @@
 .container{
     background: grey;
     display: flex;
-    flew-direction: rtl;
+    flex-direction: column-reverse;
 
 }
 .chiled{
